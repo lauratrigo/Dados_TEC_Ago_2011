@@ -1,0 +1,13 @@
+function [lon_all, lat_all] = get_coords_sym(lat, lon)
+    % Gera as coordenadas simetrizadas apenas UMA VEZ para economizar tempo
+    max_lon = max(lon); min_lon = min(lon);
+    max_lat = max(lat); min_lat = min(lat);
+
+    lon_all = [lon; abs(lon)+2*max_lon; lon; abs(lon)+2*max_lon; ...
+               abs(lon)+2*min_lon; lon; abs(lon)+2*max_lon; ...
+               abs(lon)+2*min_lon; abs(lon)+2*min_lon];
+
+    lat_all = [lat; lat; abs(lat); abs(lat); lat; ...
+               abs(lat)+2*min_lat; abs(lat)+2*min_lat; abs(lat); ...
+               abs(lat)+2*min_lat];
+end
