@@ -1,4 +1,4 @@
-# 🌎 Detecção de Distúrbios Ionosféricos Associados ao Terremoto do Peru (2011)
+# 🌎 Detecção de TIDs Associados ao Terremoto dao Peeu de 2011 Utilizando Dados GNSS e Análise de Componentes Principais (PCA)
 
 <p align="center">
   <img src="Peru.png" alt="Mapa do terremoto do Peru (2011)" width="350">
