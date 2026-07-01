@@ -193,9 +193,3 @@ A metodologia aplicada segue as seguintes etapas:
 **Laura Trigo**
 
 Projeto desenvolvido durante a graduação em **Engenharia da Computação**, com foco na investigação de perturbações ionosféricas induzidas por terremotos utilizando observações GNSS.
-
----
-
-# 📜 Licença
-
-Este projeto possui fins exclusivamente acadêmicos e científicos.
