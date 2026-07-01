@@ -1,7 +1,7 @@
 # 🌎 Detecção de Distúrbios Ionosféricos Associados ao Terremoto do Peru (2011)
 
 <p align="center">
-  <img src="Peru.png" alt="Mapa do terremoto do Peru (2011)" width="500">
+  <img src="Peru.png" alt="Mapa do terremoto do Peru (2011)" width="350">
 </p>
 
 Este repositório reúne os códigos desenvolvidos para o processamento de dados GNSS e aplicação da **Análise por Componentes Principais (PCA)** na investigação de possíveis **Distúrbios Ionosféricos Co-sísmicos (CIDs)** associados ao terremoto ocorrido no **Peru em 2011**.
